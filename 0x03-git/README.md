@@ -1,1 +1,1 @@
-# 0x03-git README
+This is the README.md inside 0x03-git
